@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 1,
+  "siteId": "xiangfu-crystal-51e5976e",
+  "name": "xiangfu-crystal",
+  "kind": "react-vite",
+  "devCommand": "vite",
+  "buildCommand": "vite build",
+  "outputDir": "dist",
+  "entry": "index.html",
+  "databaseUrl": "",
+  "createdBy": "accio-site-builder",
+  "createdAt": "2026-09-08T03:06:27.611Z",
+  "installedAt": "2026-09-08T04:02:47.387Z"
+}

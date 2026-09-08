@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap location is domain-dependent; a sitemap.xml will be added once the
+# production domain is confirmed at publish time.
